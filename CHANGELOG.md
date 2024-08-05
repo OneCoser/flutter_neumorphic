@@ -1,5 +1,9 @@
 ## 3.2.0
 
+* SDK 3.22.3
+
+## 3.2.0
+
 * Remove generated localization class ([#215](https://github.com/Idean/Flutter-Neumorphic/pull/215))
 
 ## 3.1.1
